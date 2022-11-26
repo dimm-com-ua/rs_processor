@@ -1,0 +1,2 @@
+[workspace]
+members = ["rs_commons", "rs_proc_app"]
